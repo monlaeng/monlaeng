@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=2,30&height=300&section=header&text=Hyejins's%20GitHub&fontSize=90)
 
 <!--
